@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hayakawa-ii
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React frameworks
+- 👀 Work in projects with React, Tailwind, Python, Flask
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me here on github
 
